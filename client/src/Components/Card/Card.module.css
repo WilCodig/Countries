@@ -1,0 +1,27 @@
+.Card{
+    background-color: rgba(5, 65, 114, 0.35);
+    /* background-color: rgb(5,7,12,0.25); */
+    border:0px;
+    border-radius: 15px;
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-right: 2%;
+    max-width: 500px;
+    min-width: 500px;
+    max-height: 400px;
+    min-height: 400px;
+}
+.imagen{
+    max-width: 300px;
+    min-width: 300px;
+    max-height: 200px;
+    min-height: 200px;
+}
+.link{
+    color: aliceblue;
+    font-weight: 700;
+    text-decoration: underline;
+    text-decoration-thickness: 7px;
+    text-decoration-color:rgba(132, 199, 255, 0.50);
+
+}

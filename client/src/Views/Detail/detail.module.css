@@ -1,0 +1,43 @@
+
+.div{
+    background: linear-gradient(rgba(46, 55, 78, 0.40), rgba(39, 50, 78, 0.40)),url(Detail.jpg);
+    background-size: cover;
+    background-position: left;
+}
+.h1{
+    
+    color: aliceblue;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 15px;
+    margin-top: 0%;
+    margin-bottom: 3%;
+    padding-top: 9px;
+}
+p{
+    color: aliceblue;
+    font-weight: 800;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+    text-decoration-color: rgba(183, 229, 255, 0.5);
+    letter-spacing: 3px;
+}
+.nav{
+    /* background-color: aqua; */
+    display: flex;
+    margin-right: 80%;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 90px;
+}
+.boton{
+    background-color:rgb(5,7,12,0.80);
+    color: azure;
+    font-weight: 600;
+    letter-spacing: 2px;
+    cursor: pointer;
+    padding: 5px 15px;
+    font-size: 15px;
+    border-radius: 5px;
+    text-decoration: none;
+}

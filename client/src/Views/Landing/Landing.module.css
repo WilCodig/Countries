@@ -1,0 +1,26 @@
+.landing{
+   padding-top: 10%;
+   height: 563px;
+   background: linear-gradient(rgba(46, 55, 78, 0.40), rgba(39, 50, 78, 0.20)),url(Initial.jpg);
+   background-size: cover;
+   background-position: center;
+}
+.title{
+   padding-left: inherit;
+   color: white;
+   font-weight: 800;
+   letter-spacing: 50px;
+   line-height: 7rem;
+}
+.boton{
+   /* background-color: rgb(9, 130, 160); */
+   background-color:rgb(5,7,12,0.80);
+   color: azure;
+   font-weight: 700;
+   letter-spacing: 5px;
+   cursor: pointer;
+   padding: 20px 35px;
+   font-size: 15px;
+   border: 0ch;
+   border-radius: 15px;
+}

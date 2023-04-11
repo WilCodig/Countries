@@ -1,0 +1,23 @@
+.nav{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.selectores{
+   background: rgba(5,7,12,0.50);
+   color: azure;
+   font-weight: 700;
+   letter-spacing: 2px;
+   cursor: pointer;
+   padding: 10px 20px;
+   font-size: 15px;
+   border: 0ch;
+   border-radius: 5px;
+}
+.opciones{
+    background-color:rgba(2, 41, 46, 0.8);
+   color: azure;
+   font-weight: 700;
+   letter-spacing: 1px;
+}

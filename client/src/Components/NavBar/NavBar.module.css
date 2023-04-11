@@ -1,0 +1,18 @@
+
+.nav { 
+   background-color:rgb(30, 60, 65);
+   display: flex;
+   justify-content: space-around;
+   border: 10px solid rgb(28, 50, 75);
+}
+.botones{
+   background-color: rgb(5, 96, 119);
+   color: azure;
+   font-weight: 700;
+   letter-spacing: 2px;
+   cursor: pointer;
+   padding: 10px 20px;
+   font-size: 15px;
+   border: 0ch;
+   border-radius: 15px;
+}
