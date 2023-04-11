@@ -14,13 +14,6 @@
 <br />
 
 ---
-
-## **⏱ HORARIOS Y FECHAS**
-
-El proyecto individual tiene una duración máxima de tres semanas. Se inicia la primera semana con un Kick-Off, y se agendará una corrección personalizada la última semana.
-
-En el caso de completar todas las tareas antes de dicho lapso se podrá avisar a su instructor para coordinar una fecha de presentación del trabajo (DEMO).
-
 <br />
 
 ---
@@ -32,14 +25,8 @@ Es necesario contar minimamente con la última versión estable de NodeJS y NPM.
 -  **Node**: 12.18.3 o mayor
 -  **NPM**: 6.14.16 o mayor
 
-Para verificar que versión tienes instalada:
 
-```bash
-node -v
-npm -v
-```
-
-**ACLARACIÓN:** las dependencias actuales se encuentran en las versiones que venimos trabajando durante el bootcamp.
+**ACLARACIÓN:** las dependencias actuales se encuentran en las versiones:
 
 -  **react**: 17.0.1
 -  **react-dom**: 17.0.1
@@ -47,9 +34,7 @@ npm -v
 -  **redux**: 4.0.5
 -  **react-redux**: 7.2.3
 
-Está permitido, **bajo tu responsabilidad**, actualizar las dependencias a versiones más actuales si lo deseas. Versiones mas actuales podrían presentar configuraciones diferentes respecto a las versiones en las que venimos trabajando durante el bootcamp.
-
-### **⛔️ Está rotundamente prohibido utilizar librerías externas para aplicar estilos a la SPA. Tendrás que utilizar CSS mediante algunas de las opciones vistas en el bootcamp (CSS puro, CSS Modules o Styled Components).**
+### **⛔️ Solo se utilizo (CSS puro, CSS Modules o Styled Components).**
 
 <br />
 
@@ -71,7 +56,7 @@ Está permitido, **bajo tu responsabilidad**, actualizar las dependencias a vers
 
 4. Reemplazar **`usuariodepostgres`** y **`passwordDePostgres`** con tus propias credenciales para conectarte a postgres. Este archivo va ser ignorado en la subida a github, ya que contiene información sensible (las credenciales).
 
-5. Adicionalmente será necesario que crees, **desde psql (shell o PGAdmin)**, una base de datos llamada **`countries`**. Si no realizas este paso de manera manual no podrás avanzar con el proyecto.
+5. Adicionalmente será necesario que crees, **desde psql (shell o PGAdmin)**, una base de datos llamada **`countries`**.
 
 <br />
 
@@ -225,22 +210,6 @@ Este formulario debe ser **controlado completamente con JavaScritp**. No se pued
 
 <br />
 
----
 
-<br />
-
-### **🖱 TESTING**
-
-Ten en cuenta que en esta instancia no es obligatorio el desarrollo de testing para tu aplicación. De igual manera, te desafiamos a que los hagas, ¡ya que suman puntos!
-
--  Al menos tener un componente del frontend con sus tests respectivos.
--  Al menos tener dos rutas del backend con sus tests respectivos.
--  Al menos tener un modelo de la base de datos con sus tests respectivos.
-
-<br />
-
----
-
-<br />
 
   <img src="./countries.png" />
